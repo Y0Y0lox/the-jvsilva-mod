@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="yoyoplush.png">
+	<!-- Created with Adobe Animate version 24.0.1.329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="yoyo plush]0000" x="0" y="0" width="280" height="249" frameX="0" frameY="-10" frameWidth="280" frameHeight="260"/>
+	<SubTexture name="yoyo plush]0001" x="280" y="0" width="271" height="255" frameX="-4" frameY="-5" frameWidth="280" frameHeight="260"/>
+	<SubTexture name="yoyo plush]0002" x="551" y="0" width="266" height="258" frameX="-6" frameY="-2" frameWidth="280" frameHeight="260"/>
+	<SubTexture name="yoyo plush]0003" x="0" y="258" width="262" height="260" frameX="-8" frameY="0" frameWidth="280" frameHeight="260"/>
+	<SubTexture name="yoyo plush]0004" x="262" y="258" width="261" height="260" frameX="-9" frameY="0" frameWidth="280" frameHeight="260"/>
+	<SubTexture name="yoyo plush]0005" x="523" y="258" width="260" height="260" frameX="-9" frameY="0" frameWidth="280" frameHeight="260"/>
+	<SubTexture name="yoyo plush]0006" x="0" y="518" width="260" height="260" frameX="-9" frameY="0" frameWidth="280" frameHeight="260"/>
+	<SubTexture name="yoyo plush]0007" x="260" y="518" width="260" height="260" frameX="-9" frameY="0" frameWidth="280" frameHeight="260"/>
+	<SubTexture name="yoyo plush]0008" x="260" y="518" width="260" height="260" frameX="-9" frameY="0" frameWidth="280" frameHeight="260"/>
+	<SubTexture name="yoyo plush]0009" x="260" y="518" width="260" height="260" frameX="-9" frameY="0" frameWidth="280" frameHeight="260"/>
+</TextureAtlas>

@@ -1,0 +1,9 @@
+{
+    "params": [
+        {
+            "name": "Bars?",
+            "type": "Bool",
+            "defaultValue": "false"
+        }
+    ]
+}

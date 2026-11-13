@@ -1,0 +1,15 @@
+{
+	"customValues": {},
+	"color": "#00FF00",
+	"opponentModeAllowed": true,
+	"icon": "jvsilva",
+	"difficulties": [
+		"hard"
+	],
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "sharpenized",
+	"beatsPerMeasure": 4,
+	"needsVoices": true,
+	"bpm": 120
+}

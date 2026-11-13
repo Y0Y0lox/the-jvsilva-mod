@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NOTE_assets.png">
+    <!-- LEFT / PURPLE -->
+    <SubTexture name="arrowLEFT0000" x="0" y="140" width="128" height="75"/>
+    <SubTexture name="left press0000" x="264" y="140" width="106" height="62"/>
+    <SubTexture name="left confirm0000" x="128" y="140" width="136" height="80"/>
+    <SubTexture name="purple0000" x="0" y="140" width="128" height="75"/>
+    <SubTexture name="purple0" x="0" y="140" width="128" height="75"/>
+    <SubTexture name="purple hold piece0000" x="0" y="240" width="75" height="96"/>
+    <SubTexture name="purple hold end0000" x="75" y="240" width="75" height="72"/>
+    <SubTexture name="pruple end hold0000" x="75" y="240" width="75" height="72"/>
+
+    <!-- DOWN / BLUE -->
+    <SubTexture name="arrowDOWN0000" x="0" y="0" width="75" height="129"/>
+    <SubTexture name="down press0000" x="156" y="0" width="62" height="105"/>
+    <SubTexture name="down confirm0000" x="75" y="0" width="81" height="140"/>
+    <SubTexture name="blue0000" x="0" y="0" width="75" height="129"/>
+    <SubTexture name="blue0" x="0" y="0" width="75" height="129"/>
+    <SubTexture name="blue hold piece0000" x="150" y="240" width="75" height="96"/>
+    <SubTexture name="blue hold end0000" x="225" y="240" width="75" height="72"/>
+
+    <!-- CENTER / GRAY -->
+    <SubTexture name="arrowCENTER0000" x="218" y="0" width="76" height="70"/>
+    <SubTexture name="arrowGRAY0000" x="218" y="0" width="76" height="70"/>
+    <SubTexture name="center press0000" x="380" y="0" width="68" height="62"/>
+    <SubTexture name="center confirm0000" x="294" y="0" width="86" height="76"/>
+    <SubTexture name="gray press0000" x="380" y="0" width="68" height="62"/>
+    <SubTexture name="gray confirm0000" x="294" y="0" width="86" height="76"/>
+    <SubTexture name="gray0000" x="218" y="0" width="76" height="70"/>
+    <SubTexture name="gray0" x="218" y="0" width="76" height="70"/>
+    <SubTexture name="gray hold piece0000" x="300" y="240" width="75" height="96"/>
+    <SubTexture name="gray hold end0000" x="375" y="240" width="75" height="72"/>
+
+    <!-- UP / GREEN -->
+    <SubTexture name="arrowUP0000" x="447" y="0" width="74" height="129"/>
+    <SubTexture name="up press0000" x="602" y="0" width="66" height="112"/>
+    <SubTexture name="up confirm0000" x="520" y="0" width="81" height="138"/>
+    <SubTexture name="green0000" x="447" y="0" width="74" height="129"/>
+    <SubTexture name="green0" x="447" y="0" width="74" height="129"/>
+    <SubTexture name="green hold piece0000" x="450" y="240" width="75" height="96"/>
+    <SubTexture name="green hold end0000" x="525" y="240" width="75" height="72"/>
+
+    <!-- RIGHT / RED -->
+    <SubTexture name="arrowRIGHT0000" x="370" y="140" width="128" height="75"/>
+    <SubTexture name="right press0000" x="636" y="140" width="99" height="57"/>
+    <SubTexture name="right confirm0000" x="498" y="140" width="138" height="81"/>
+    <SubTexture name="red0000" x="370" y="140" width="128" height="75"/>
+    <SubTexture name="red0" x="370" y="140" width="128" height="75"/>
+    <SubTexture name="red hold piece0000" x="600" y="240" width="75" height="96"/>
+    <SubTexture name="red hold end0000" x="675" y="240" width="75" height="72"/>
+</TextureAtlas>

@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="150" y="300" sprite="aethosmond" scale="1.5" icon="aethosmondfake" color="#00BBFF">
+	<anim name="idle" anim="idle" x="-1" loop="true"/>
+	<anim name="singDOWN" anim="down" x="10" y="-28"/>
+	<anim name="singRIGHT" anim="right" x="-1"/>
+	<anim name="singLEFT" anim="left" x="31"/>
+	<anim name="singUP" anim="up" x="-8" y="20"/>
+</character>

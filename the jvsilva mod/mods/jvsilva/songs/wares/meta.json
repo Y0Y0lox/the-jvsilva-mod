@@ -1,0 +1,15 @@
+{
+	"customValues": {},
+	"color": "#9271FD",
+	"opponentModeAllowed": false,
+	"icon": "face",
+	"difficulties": [
+		"bad"
+	],
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "wares",
+	"beatsPerMeasure": 4,
+	"needsVoices": true,
+	"bpm": 180
+}

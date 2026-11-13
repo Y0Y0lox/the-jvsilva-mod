@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<icon>
+    <anim name="neutral" anim="idle" fps="30" looped="true"/>
+    <anim name="losing" anim="lose" fps="30" looped="true"/>
+</icon>

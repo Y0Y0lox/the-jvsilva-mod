@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="vukibaiter.png">
+	<!-- Created with Adobe Animate version 24.0.1.329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down0000" x="0" y="0" width="343" height="691"/>
+	<SubTexture name="down0001" x="343" y="0" width="343" height="691"/>
+	<SubTexture name="idle0000" x="686" y="0" width="343" height="691"/>
+	<SubTexture name="left0000" x="1029" y="0" width="343" height="691"/>
+	<SubTexture name="left0001" x="1372" y="0" width="343" height="691"/>
+	<SubTexture name="right0000" x="0" y="691" width="343" height="691"/>
+	<SubTexture name="right0001" x="343" y="691" width="343" height="691"/>
+	<SubTexture name="up0000" x="686" y="691" width="343" height="691"/>
+	<SubTexture name="up0001" x="1029" y="691" width="343" height="691"/>
+</TextureAtlas>

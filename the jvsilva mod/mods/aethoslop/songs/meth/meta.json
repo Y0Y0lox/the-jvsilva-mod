@@ -1,0 +1,16 @@
+{
+	"customValues": {},
+	"color": "#2BFF00",
+	"opponentModeAllowed": false,
+	"icon": "face",
+	"difficulties": [
+		"normal",
+		"difficulty"
+	],
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "meth",
+	"beatsPerMeasure": 4,
+	"needsVoices": true,
+	"bpm": 130
+}

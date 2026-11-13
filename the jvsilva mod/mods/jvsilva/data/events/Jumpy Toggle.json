@@ -1,0 +1,9 @@
+{
+  "params": [
+    {
+      "name": "Enabled",
+      "type": "Bool",
+      "defaultValue": "true"
+    }
+  ]
+}

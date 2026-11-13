@@ -1,0 +1,75 @@
+{
+	"songName": "Playground",
+	"offsets": {
+		"instrumental": 0,
+		"altInstrumentals": {},
+		"vocals": {},
+		"altVocals": {}
+	},
+	"color": "#9271FD",
+	"looped": false,
+	"customValues": {},
+	"timeFormat": "ms",
+	"generatedBy": "Friday Night Funkin' - v0.7.5",
+	"divisions": 96,
+	"timeChanges": [
+		{
+			"t": 0,
+			"d": 4,
+			"b": 0,
+			"n": 4,
+			"bt": [
+				4,
+				4,
+				4,
+				4
+			],
+			"bpm": 113
+		}
+	],
+	"artist": "Mati!",
+	"opponentModeAllowed": false,
+	"version": "2.2.4",
+	"difficulties": [
+		"testing"
+	],
+	"icon": "face",
+	"coopAllowed": false,
+	"charter": "Snowball + Byrox1648 + Ender69",
+	"stepsPerBeat": 4,
+	"displayName": "testing",
+	"playData": {
+		"difficulties": [
+			"easy",
+			"normal",
+			"hard"
+		],
+		"previewStart": 0,
+		"characters": {
+			"altInstrumentals": [],
+			"player": "bf-melon",
+			"opponent": "melon",
+			"instrumental": "",
+			"girlfriend": "gf-melon",
+			"opponentVocals": [
+				"melon"
+			],
+			"playerVocals": [
+				"bf"
+			]
+		},
+		"previewEnd": 0,
+		"songVariations": [],
+		"stage": "playground",
+		"ratings": {
+			"easy": 2,
+			"normal": 2,
+			"hard": 3
+		},
+		"album": "phone-volume1",
+		"noteStyle": "melon"
+	},
+	"beatsPerMeasure": 4,
+	"needsVoices": true,
+	"bpm": 113
+}

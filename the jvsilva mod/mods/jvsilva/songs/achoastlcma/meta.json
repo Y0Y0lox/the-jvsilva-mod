@@ -1,0 +1,14 @@
+{
+	"opponentModeAllowed": false,
+	"icon": "face",
+	"difficulties": [
+		"A"
+	],
+	"color": "#9271FD",
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "Adrian Christan Hernendaz or as the locals calls me A",
+	"beatsPerMeasure": 4,
+	"needsVoices": true,
+	"bpm": 100
+}

@@ -1,0 +1,9 @@
+{
+    "params": [
+        {
+            "name": "Badapple?",
+            "type": "Bool",
+            "defaultValue": "false"
+        }
+    ]
+}

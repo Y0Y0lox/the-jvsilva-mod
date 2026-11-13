@@ -1,0 +1,7 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/meth/" name="drugs" zoom="0.6">
+	<girlfriend/>
+	<sprite x="-85.7142866022966" sprite="YOUTUBE" y="-316.190476663378" type="none" scalex="2.74801587394088" scaley="2.69696969804447" name="youtube"/>
+	<dad x="-976.835278588431" y="-62.7526163792371"/>
+	<boyfriend x="568.636648604509" y="-442.109406358164"/>
+</stage>

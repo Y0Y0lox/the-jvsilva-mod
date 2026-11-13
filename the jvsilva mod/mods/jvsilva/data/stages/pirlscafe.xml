@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="pirlsweek/" name="pirlscafe">
+	<sprite x="-638.33344040252" sprite="sky" type="none" scalex="2.11469227977032" name="sky"/>
+	<sprite x="-2502" sprite="cafe" y="-1230" type="none" scalex="0.529003021148036" skewy="6.82121026329696e-15" scaley="0.414893617021277" name="cafe"/>
+	<girlfriend scale="0.7" x="-301" scroll="1" y="511"/>
+	<dad x="-858.097506564779" y="667.99995666994"/>
+	<boyfriend camxoffset="-30" x="407.693740118918" camyoffset="-30" y="563.636432446821" scale="0.8"/>
+</stage>

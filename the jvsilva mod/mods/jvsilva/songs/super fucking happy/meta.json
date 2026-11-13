@@ -1,0 +1,15 @@
+{
+	"customValues": {},
+	"color": "#9271FD",
+	"opponentModeAllowed": false,
+	"icon": "face",
+	"difficulties": [
+		"ahh"
+	],
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "super fucking happy",
+	"beatsPerMeasure": 4,
+	"needsVoices": true,
+	"bpm": 130
+}

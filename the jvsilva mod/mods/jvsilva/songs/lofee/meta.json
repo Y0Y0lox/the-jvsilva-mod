@@ -1,0 +1,15 @@
+{
+	"customValues": {},
+	"color": "#06BB13",
+	"opponentModeAllowed": false,
+	"icon": "face",
+	"difficulties": [
+		"supernovae"
+	],
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "lofee",
+	"beatsPerMeasure": 4,
+	"needsVoices": true,
+	"bpm": 86
+}

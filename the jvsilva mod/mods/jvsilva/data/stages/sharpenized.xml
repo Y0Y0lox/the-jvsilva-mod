@@ -1,0 +1,13 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/sharpenized/" name="sharpenized" zoom="0.95">
+	<girlfriend x="-441.421370832252" angle="-1.07696328523417" y="7433.02752695056"/>
+	<sprite x="-679.99989112109" sprite="bitch2" y="-609.999972923865" type="none" scalex="1.67153284694306" scaley="1.68852459016393" name="sprite_4"/>
+	<sprite x="13.4687005940302" sprite="bitch" y="883.546758968334" type="none" scalex="2.96703904155741" scaley="2.91433307935444" name="sprite_3"/>
+	<sprite x="-1199.25310089238" sprite="bitch3" y="-152.735064736294" type="none" name="sprite_6"/>
+	<sprite x="186.676190233249" sprite="bitch3" y="-458.205194208883" type="none" name="sprite_7"/>
+	<dad x="-600"/>
+	<boyfriend x="1500"/>
+	<sprite x="-1210.56680939137" sprite="bitch3" y="-910.753534168273" type="none" name="sprite_8"/>
+	<sprite x="1566.94862710939" sprite="bitch3" y="-933.380951166243" type="none" name="sprite_9"/>
+	<sprite x="1595.23289835685" sprite="bitch3" y="-113.137084989848" type="none" name="sprite_9"/>
+</stage>

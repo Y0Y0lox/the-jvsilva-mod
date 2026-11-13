@@ -1,0 +1,7 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/dih/" name="google" zoom="0.6">
+	<girlfriend x="268.333333332874" y="185.476190476139"/>
+	<sprite x="0.877719934550441" sprite="google" y="621.816778206616" type="none" scalex="3.23002613155241" scaley="3.22989553918402" name="google"/>
+	<dad x="-462.253949282999" y="250.396886629662"/>
+	<boyfriend x="1188.81052731375" y="179.524983498506"/>
+</stage>

@@ -1,0 +1,10 @@
+<!DOCTYPE codename-engine-icon>
+<icon scale="1" facing="right" antialiasing="true" offsetX="0" offsetY="0">
+    <anim name="losing" anim="losing0" looped="false" fps="0"/>
+    <anim name="neutral" anim="neutral0" looped="false" fps="0"/>
+    <anim name="winning" anim="winning0" looped="false" fps="0"/>
+
+    <step percent="0" name="losing"/>
+    <step percent="20" name="neutral"/>
+    <step percent="80" name="winning"/>
+</icon>

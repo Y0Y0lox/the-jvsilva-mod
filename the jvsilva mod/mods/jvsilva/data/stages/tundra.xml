@@ -1,0 +1,7 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/badware/" name="tundra" zoom="0.95">
+	<girlfriend x="479.809523809469" y="230.380952380915"/>
+	<sprite x="291.654080392725" sprite="base" y="83.9873786672489" type="none" scale="3.20431448546148" name="sprite_3"/>
+	<dad scale="1.14955421340236" x="-11.4224906526397" y="250.21052631589"/>
+	<boyfriend scale="0.660194174757531" x="1041.83009708733" y="106.000000000051"/>
+</stage>

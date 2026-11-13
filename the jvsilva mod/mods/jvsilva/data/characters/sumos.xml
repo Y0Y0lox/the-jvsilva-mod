@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="suicidemouseredesignhappy" icon="sumos">
+	<anim name="idle" anim="Sadmouse Idle" x="38" y="-181"/>
+	<anim name="singDOWN" anim="Sadmouse Down" x="-45" y="-205"/>
+	<anim name="singRIGHT" anim="Sadmouse Right" x="25" y="-189"/>
+	<anim name="singLEFT" anim="Sadmouse Left" x="42" y="-195"/>
+	<anim name="singUP" anim="Sadmouse Up" x="31" y="-164"/>
+</character>

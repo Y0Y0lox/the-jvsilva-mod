@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/jazzy/" name="buildaboat" zoom="0.4">
+	<girlfriend scale="0.7" x="405.946035575014" scroll="1" y="299.910059291689"/>
+	<sprite x="-2015" updateHitbox="true" sprite="Y0Y0lox background fnf" y="-1372" scale="5" name="sprite1"/>
+	<sprite x="-352" updateHitbox="true" sprite="konan and khlopin" y="-1015" scale="2" name="sprite2"/>
+	<sprite x="-55" sprite="kikyo" y="554" type="beat" scale="1.33" name="kikyo"/>
+	<sprite x="391.07421875" sprite="yoyopfp" y="611.25" type="beat" scale="1.166015625" name="sprite_7"/>
+	<sprite x="687.294922357768" sprite="yoyorender" y="571.250001300517" type="beat" scale="1.498046875" name="sprite_8"/>
+	<sprite x="1070.81569480947" sprite="yoyoplush" y="707.284271247462" type="beat" scale="1.21" name="sprite_6"/>
+	<dad x="-358.750025087239" y="373.749987200383"/>
+	<boyfriend x="1203.70582074315" y="379.999999998855"/>
+</stage>

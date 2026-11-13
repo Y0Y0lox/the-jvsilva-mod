@@ -1,0 +1,7 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/retro/" name="retro" zoom="0.6">
+	<girlfriend/>
+	<sprite x="-427.529149291885" sprite="retro" y="-762.249538440933" type="none" scale="11.7576568193015" name="sprite_3"/>
+	<dad x="106.666666613229" y="521.666666686602"/>
+	<boyfriend x="766.666666666667" y="286.666666666667"/>
+</stage>

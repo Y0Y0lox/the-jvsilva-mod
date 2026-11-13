@@ -1,0 +1,7 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/fero/" name="bobicious" zoom="0.8">
+	<girlfriend/>
+	<sprite x="-417.351861435493" sprite="stage" y="-100.424710265433" type="none" scale="2.77638793942495" name="sprite_3"/>
+	<dad x="-125.949351850524" y="230.812782650315"/>
+	<boyfriend x="825.831941520133" y="189.893397660231"/>
+</stage>

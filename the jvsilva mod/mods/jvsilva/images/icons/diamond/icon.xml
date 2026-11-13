@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="icon.png">
+	<!-- Created with Adobe Animate version 24.0.1.329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="death0000" x="0" y="0" width="204" height="94" frameX="-4" frameY="-1" frameWidth="217" frameHeight="99"/>
+	<SubTexture name="death0001" x="204" y="0" width="214" height="96" frameX="-2" frameY="-3" frameWidth="217" frameHeight="99"/>
+	<SubTexture name="death0002" x="0" y="96" width="217" height="99"/>
+	<SubTexture name="death0003" x="204" y="0" width="214" height="96" frameX="-2" frameY="-3" frameWidth="217" frameHeight="99"/>
+	<SubTexture name="normal0000" x="217" y="96" width="238" height="151" frameX="-2" frameY="-6" frameWidth="240" frameHeight="157"/>
+	<SubTexture name="normal0001" x="0" y="247" width="239" height="151" frameX="0" frameY="-3" frameWidth="240" frameHeight="157"/>
+	<SubTexture name="normal0002" x="239" y="247" width="239" height="151" frameX="0" frameY="0" frameWidth="240" frameHeight="157"/>
+	<SubTexture name="normal0003" x="0" y="247" width="239" height="151" frameX="0" frameY="-3" frameWidth="240" frameHeight="157"/>
+</TextureAtlas>

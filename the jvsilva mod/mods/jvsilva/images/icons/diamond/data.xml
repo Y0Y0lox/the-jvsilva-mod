@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-icon>
+<icon antialiasing="true">
+    <anim name="neutral" anim="normal" fps="8" looped="true"/>
+    <anim name="losing" anim="death" fps="8" looped="true"/>
+
+    <step percent="0" name="losing"/>
+    <step percent="20" name="neutral"/>
+</icon>

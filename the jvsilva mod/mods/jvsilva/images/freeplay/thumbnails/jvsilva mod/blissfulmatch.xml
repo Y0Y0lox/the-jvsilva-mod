@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="blissfulmatch.png">
+	<!-- Created with Adobe Animate version 24.0.15.5 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blissfulmatch0000" x="0" y="0" width="640" height="460"/>
+	<SubTexture name="blissfulmatch0001" x="640" y="0" width="640" height="460"/>
+	<SubTexture name="blissfulmatch0002" x="1280" y="0" width="640" height="460"/>
+	<SubTexture name="blissfulmatch0003" x="1920" y="0" width="640" height="460"/>
+	<SubTexture name="blissfulmatch0004" x="2560" y="0" width="640" height="460"/>
+	<SubTexture name="blissfulmatch0005" x="3200" y="0" width="640" height="460"/>
+	<SubTexture name="blissfulmatch0006" x="0" y="460" width="640" height="460"/>
+	<SubTexture name="blissfulmatch0007" x="640" y="460" width="640" height="460"/>
+	<SubTexture name="blissfulmatch0008" x="1280" y="460" width="640" height="460"/>
+	<SubTexture name="blissfulmatch0009" x="1920" y="460" width="640" height="460"/>
+	<SubTexture name="blissfulmatch0010" x="2560" y="460" width="640" height="460"/>
+	<SubTexture name="blissfulmatch0011" x="3200" y="460" width="640" height="460"/>
+	<SubTexture name="blissfulmatch0012" x="0" y="920" width="640" height="460"/>
+	<SubTexture name="blissfulmatch0013" x="640" y="920" width="640" height="460"/>
+	<SubTexture name="blissfulmatch0014" x="1280" y="920" width="640" height="460"/>
+	<SubTexture name="blissfulmatch0015" x="1920" y="920" width="640" height="460"/>
+	<SubTexture name="blissfulmatch0016" x="2560" y="920" width="640" height="460"/>
+	<SubTexture name="blissfulmatch0017" x="3200" y="920" width="640" height="460"/>
+	<SubTexture name="blissfulmatch0018" x="0" y="1380" width="640" height="460"/>
+	<SubTexture name="blissfulmatch0019" x="640" y="1380" width="640" height="460"/>
+	<SubTexture name="blissfulmatch0020" x="1280" y="1380" width="640" height="460"/>
+	<SubTexture name="blissfulmatch0021" x="1920" y="1380" width="640" height="460"/>
+	<SubTexture name="blissfulmatch0022" x="2560" y="1380" width="640" height="460"/>
+	<SubTexture name="blissfulmatch0023" x="3200" y="1380" width="640" height="460"/>
+	<SubTexture name="blissfulmatch0024" x="0" y="1840" width="640" height="460"/>
+	<SubTexture name="blissfulmatch0025" x="640" y="1840" width="640" height="460"/>
+	<SubTexture name="blissfulmatch0026" x="1280" y="1840" width="640" height="460"/>
+	<SubTexture name="blissfulmatch0027" x="1920" y="1840" width="640" height="460"/>
+	<SubTexture name="blissfulmatch0028" x="2560" y="1840" width="640" height="460"/>
+	<SubTexture name="blissfulmatch0029" x="3200" y="1840" width="640" height="460"/>
+	<SubTexture name="blissfulmatch0030" x="0" y="2300" width="640" height="460"/>
+	<SubTexture name="blissfulmatch0031" x="640" y="2300" width="640" height="460"/>
+	<SubTexture name="blissfulmatch0032" x="1280" y="2300" width="640" height="460"/>
+	<SubTexture name="blissfulmatch0033" x="1920" y="2300" width="640" height="460"/>
+	<SubTexture name="blissfulmatch0034" x="2560" y="2300" width="640" height="460"/>
+	<SubTexture name="blissfulmatch0035" x="3200" y="2300" width="640" height="460"/>
+	<SubTexture name="blissfulmatch0036" x="0" y="2760" width="640" height="460"/>
+	<SubTexture name="blissfulmatch0037" x="640" y="2760" width="640" height="460"/>
+	<SubTexture name="blissfulmatch0038" x="1280" y="2760" width="640" height="460"/>
+</TextureAtlas>

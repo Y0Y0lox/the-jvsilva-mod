@@ -1,0 +1,15 @@
+{
+	"customValues": {},
+	"color": "#00BBFF",
+	"opponentModeAllowed": false,
+	"icon": "face",
+	"difficulties": [
+		"aethos"
+	],
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "dih",
+	"beatsPerMeasure": 4,
+	"needsVoices": false,
+	"bpm": 186
+}

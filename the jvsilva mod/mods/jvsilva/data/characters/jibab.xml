@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="Konan" icon="jibab">
+	<anim name="idle" anim="i" fps="12"/>
+	<anim name="singDOWN" anim="d" fps="12"/>
+	<anim name="singRIGHT" anim="r" fps="12"/>
+	<anim name="singLEFT" anim="l" fps="12"/>
+	<anim name="singUP" anim="u" fps="12"/>
+</character>

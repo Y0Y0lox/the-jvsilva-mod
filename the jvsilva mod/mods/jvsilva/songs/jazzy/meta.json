@@ -1,0 +1,15 @@
+{
+	"customValues": {},
+	"color": "#00BBFF",
+	"opponentModeAllowed": true,
+	"icon": "diamond",
+	"difficulties": [
+		"chud"
+	],
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "jazzy",
+	"beatsPerMeasure": 4,
+	"needsVoices": true,
+	"bpm": 110
+}

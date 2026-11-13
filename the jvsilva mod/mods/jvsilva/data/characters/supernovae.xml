@@ -1,0 +1,13 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="bambi-old" flipX="true" camx="250" camy="200" isPlayer="true">
+	<anim name="idle" anim="MARCELLO idle dance" x="-167" y="-118"/>
+	<anim name="singDOWN" anim="MARCELLO NOTE DOWN" x="-179" y="-123"/>
+	<anim name="singRIGHT" anim="MARCELLO NOTE RIGHT" x="-186" y="-115"/>
+	<anim name="singLEFT" anim="MARCELLO NOTE LEFT" x="-178" y="-110"/>
+	<anim name="singUP" anim="MARCELLO NOTE UP" x="-183" y="-116"/>
+	<anim name="MARCELLO dead" anim="MARCELLO dead" x="-163" y="-113"/>
+	<anim name="MARCELLO MISS UP" anim="MARCELLO MISS UP" x="-185" y="-116"/>
+	<anim name="MARCELLO MISS DOWN" anim="MARCELLO MISS DOWN" x="-178" y="-119"/>
+	<anim name="MARCELLO MISS LEFT" anim="MARCELLO MISS LEFT" x="-178" y="-118"/>
+	<anim name="MARCELLO MISS RIGHT" anim="MARCELLO MISS RIGHT" x="-183" y="-109"/>
+</character>

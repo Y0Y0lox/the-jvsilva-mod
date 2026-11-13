@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="evil.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="anim0000" x="644" y="0" width="644" height="464" frameX="2" frameY="2" frameWidth="640" frameHeight="460"/>
+	<SubTexture name="anim0001" x="0" y="0" width="640" height="460" frameX="2" frameY="2" frameWidth="640" frameHeight="460"/>
+</TextureAtlas>

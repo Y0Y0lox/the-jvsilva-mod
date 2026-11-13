@@ -1,0 +1,13 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="pirlsweek/" name="pirlscafe" zoom="0.65">
+	<girlfriend scale="0.7" x="-301" scroll="1" y="511"/>
+	<sprite x="-638.33344040252" sprite="sky" type="none" scalex="2.11469227977032" name="sky"/>
+	<sprite x="-2502" sprite="cafe" y="-1230" type="none" scalex="0.529003021148036" skewy="6.82121026329696e-15" scaley="0.414893617021277" name="cafe"/>
+	<sprite x="-22.022703553821" sprite="thehero" y="218.477122507533" scale="0.47" name="sprite_9"/>
+	<dad x="-893.326366429341" y="519.041705992105"/>
+	<boyfriend camxoffset="-30" x="468.558623510756" camyoffset="-30" y="560.433017531699" scale="0.8"/>
+	<sprite x="-467" sprite="kikyo" y="669" type="beat" name="sprite_5"/>
+	<sprite x="-190" sprite="yoyopfp" y="762" type="beat" name="sprite_6"/>
+	<sprite x="-605" sprite="yoyorender" y="336" type="beat" scalex="1.81" scaley="0.87" name="sprite_7"/>
+	<sprite x="59.047619047619" sprite="yoyoplush" y="792.380952380952" type="beat" name="sprite_8"/>
+</stage>

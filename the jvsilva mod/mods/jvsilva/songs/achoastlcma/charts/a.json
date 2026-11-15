@@ -1,13 +1,14 @@
 {
 	"events": [],
-	"stage": "Adrian",
 	"codenameChart": true,
+	"stage": "Adrian",
 	"scrollSpeed": 3,
 	"chartVersion": "1.6.0",
 	"strumLines": [
 		{
-			"scrollSpeed": 3,
 			"keyCount": 4,
+			"strumScale": 1,
+			"position": "girlfriend",
 			"notes": [
 				{
 					"id": 2,
@@ -2938,20 +2939,19 @@
 					"type": 0
 				}
 			],
-			"visible": true,
+			"characters": [
+				"adrian christian hernandez or as the locals call him a"
+			],
+			"type": 1,
 			"strumSpacing": 1,
+			"scrollSpeed": 3,
+			"visible": true,
 			"strumPos": [
 				0,
 				50
 			],
-			"position": "girlfriend",
-			"strumScale": 1,
-			"vocalsSuffix": "",
 			"strumLinePos": 0.5,
-			"type": 1,
-			"characters": [
-				"adrian christian hernandez or as the locals call him a"
-			]
+			"vocalsSuffix": ""
 		}
 	],
 	"noteTypes": []

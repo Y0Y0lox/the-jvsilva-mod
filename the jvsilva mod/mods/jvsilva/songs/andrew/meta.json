@@ -2,7 +2,7 @@
 	"customValues": {},
 	"color": "#FF0000",
 	"opponentModeAllowed": false,
-	"icon": "vuki/vuki",
+	"icon": "vuki",
 	"difficulties": [
 		"cuomo"
 	],

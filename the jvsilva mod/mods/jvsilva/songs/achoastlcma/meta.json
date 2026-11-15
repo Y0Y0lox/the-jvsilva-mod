@@ -1,10 +1,11 @@
 {
+	"customValues": {},
+	"color": "#9271FD",
 	"opponentModeAllowed": false,
-	"icon": "face",
+	"icon": "achoatlcma",
 	"difficulties": [
 		"A"
 	],
-	"color": "#9271FD",
 	"coopAllowed": false,
 	"stepsPerBeat": 4,
 	"displayName": "Adrian Christan Hernendaz or as the locals calls me A",

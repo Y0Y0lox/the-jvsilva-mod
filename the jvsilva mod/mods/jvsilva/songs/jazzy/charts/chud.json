@@ -104,10 +104,67 @@
 		},
 		{
 			"params": [
-				"white void"
+				"pof"
 			],
 			"time": 41454.5454545455,
 			"name": "Change Stage"
+		},
+		{
+			"params": [
+				true,
+				0,
+				0,
+				"fagfart",
+				0,
+				0
+			],
+			"time": 41454.5454545455,
+			"name": "Change Character"
+		},
+		{
+			"params": [
+				true,
+				1,
+				0,
+				"bfyoy",
+				0,
+				0
+			],
+			"time": 41454.5454545455,
+			"name": "Change Character"
+		},
+		{
+			"params": [
+				0,
+				true,
+				8,
+				"quart",
+				"Out"
+			],
+			"time": 41454.5454545455,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				1,
+				true,
+				4,
+				"quint",
+				"Out"
+			],
+			"time": 45818.1818181818,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				0,
+				true,
+				4,
+				"quint",
+				"Out"
+			],
+			"time": 48545.4545454545,
+			"name": "Camera Movement"
 		},
 		{
 			"params": [
@@ -130,7 +187,7 @@
 				true,
 				"LOCK"
 			],
-			"time": 52227.2727272727,
+			"time": 52227.2727272726,
 			"name": "Play Animation"
 		}
 	],
@@ -558,7 +615,7 @@
 				},
 				{
 					"id": 1,
-					"sLen": 136.363636363612,
+					"sLen": 136.363636363609,
 					"time": 13636.3636363636,
 					"type": 0
 				},
@@ -1765,7 +1822,7 @@
 				},
 				{
 					"id": 3,
-					"sLen": 136.363636363612,
+					"sLen": 136.363636363609,
 					"time": 13636.3636363636,
 					"type": 0
 				},
@@ -2011,7 +2068,7 @@
 				},
 				{
 					"id": 1,
-					"sLen": 136.363636363589,
+					"sLen": 136.363636363581,
 					"time": 25500,
 					"type": 0
 				},

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fat.png">
+	<!-- Created with Adobe Animate version 24.0.1.329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fat0000" x="0" y="0" width="605" height="229" frameX="0" frameY="0" frameWidth="606" frameHeight="234"/>
+	<SubTexture name="fat0001" x="0" y="229" width="605" height="229" frameX="0" frameY="0" frameWidth="606" frameHeight="234"/>
+	<SubTexture name="fat0002" x="0" y="458" width="604" height="228" frameX="-2" frameY="-6" frameWidth="606" frameHeight="234"/>
+	<SubTexture name="fat0003" x="0" y="458" width="604" height="228" frameX="-2" frameY="-6" frameWidth="606" frameHeight="234"/>
+</TextureAtlas>

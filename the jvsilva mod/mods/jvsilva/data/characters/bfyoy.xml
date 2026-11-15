@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character x="250" y="500" scale="3" flipX="true" camx="-400" camy="-400" isPlayer="true" icon="bf" color="#30B0D1" holdTime="6.7">
+	<anim name="idle" anim="idle" fps="12" loop="true"/>
+	<anim name="singDOWN" anim="down" x="52"/>
+	<anim name="singRIGHT" anim="right"/>
+	<anim name="singLEFT" anim="left" x="28" y="-1"/>
+	<anim name="singUP" anim="up" y="50"/>
+	<anim name="transform" anim="transform" x="5"/>
+	<anim name="attack" anim="attack" x="175" y="245"/>
+	<anim name="pre attack" anim="pre attack" y="-5"/>
+	<anim name="please bf i need ts" anim="pre attack"/>
+</character>

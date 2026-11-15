@@ -12,7 +12,7 @@ function create() {
     shitFucker.screenCenter();
     add(shitFucker);
 
-    var thePenisBar = new FlxSprite(0, 0).loadGraphic(Paths.image("clone/defaultThumb - Copy"));
+    var thePenisBar = new FlxSprite(0, 0).loadGraphic(Paths.image("clone/defaultThumb"));
     thePenisBar.scrollFactor.set(0, 0);
     thePenisBar.screenCenter();
     thePenisBar.scale.set(1.125, 1.125);

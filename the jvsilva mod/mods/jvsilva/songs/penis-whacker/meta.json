@@ -1,0 +1,14 @@
+{
+	"opponentModeAllowed": true,
+	"icon": "face",
+	"difficulties": [
+		"CloneHero"
+	],
+	"color": "#000000",
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"displayName": "Penis Whacker",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"bpm": 105
+}

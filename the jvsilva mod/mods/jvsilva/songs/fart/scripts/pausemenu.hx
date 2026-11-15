@@ -1,0 +1,1 @@
+function postCreate() PauseSubState.script = "data/pauseScripts/FartPauseState";

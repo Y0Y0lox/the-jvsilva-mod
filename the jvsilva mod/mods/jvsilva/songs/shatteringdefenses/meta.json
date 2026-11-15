@@ -1,0 +1,15 @@
+{
+	"customValues": {},
+	"color": "#6E249A",
+	"opponentModeAllowed": false,
+	"icon": "pirl/pirl",
+	"difficulties": [
+		"hard"
+	],
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "Shattering Defenses",
+	"beatsPerMeasure": 4,
+	"needsVoices": true,
+	"bpm": 195
+}

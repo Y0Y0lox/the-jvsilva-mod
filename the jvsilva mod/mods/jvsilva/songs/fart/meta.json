@@ -1,0 +1,15 @@
+{
+	"customValues": {},
+	"color": "#00BBFF",
+	"opponentModeAllowed": true,
+	"icon": "yoyo/yoyo",
+	"difficulties": [
+		"hard"
+	],
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"displayName": "fart",
+	"beatsPerMeasure": 4,
+	"needsVoices": true,
+	"bpm": 160
+}

@@ -1,0 +1,6 @@
+{
+  "modchart": [
+    { "modifier": "angleZ", "value": 150, "startBeat": 0 },
+    { "modifier": "incomingAngleZ", "value": 150, "startBeat": 0, "endBeat": 10000000, "ease": "cube", "easeDir": "In" }
+  ]
+}

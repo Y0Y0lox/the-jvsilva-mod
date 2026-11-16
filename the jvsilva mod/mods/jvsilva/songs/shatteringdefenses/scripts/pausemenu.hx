@@ -1,1 +1,0 @@
-function postCreate() PauseSubState.script = "data/pauseScripts/DefensePauseState";

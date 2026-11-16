@@ -1,9 +1,9 @@
 <!DOCTYPE codename-engine-stage>
 <stage folder="stages/y0y0/" name="yoyo" zoom="0.5">
-	<girlfriend camxoffset="100" x="388.579653946618" camyoffset="300" y="-194.449259841342" scale="1.77"/>
 	<sprite x="5365.33722798331" sprite="hell" y="6446.99979108252" type="none" scalex="16.1908045564749" scaley="17.037735849079" name="sprite_5"/>
 	<sprite x="697.241834138363" sprite="sky" y="55.1349121359529" type="none" scalex="17.3440976439908" scaley="17.0210206114424" name="sprite_4"/>
 	<sprite x="548.87342722372" sprite="fat" y="1128.37686793787" scale="5.08869117895617" name="sprite_3"/>
-	<dad x="-19.1975264575315" y="140.662000190267"/>
-	<boyfriend scale="9" x="1066.68124086877" y="198.627416998809"/>
+	<girlfriend camxoffset="100" x="5034.57965394662" camyoffset="300" y="6517.55074015866" scale="1.77"/>
+	<dad x="-19" y="141"/>
+	<boyfriend scale="9" x="1383.90351040358" y="385.424562347702"/>
 </stage>

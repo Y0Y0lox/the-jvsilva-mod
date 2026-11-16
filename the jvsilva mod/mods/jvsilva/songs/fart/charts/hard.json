@@ -23,14 +23,6 @@
 		},
 		{
 			"params": [
-				5,
-				"fart"
-			],
-			"time": 1500,
-			"name": "titleSongs"
-		},
-		{
-			"params": [
 				1,
 				true,
 				4,
@@ -371,8 +363,8 @@
 			"name": "Camera Movement"
 		}
 	],
+	"stage": "pof",
 	"codenameChart": true,
-	"stage": "yoyo",
 	"chartVersion": "1.6.0",
 	"scrollSpeed": 3,
 	"strumLines": [
@@ -3675,11 +3667,13 @@
 			"strumLinePos": 0.5,
 			"type": 0,
 			"characters": [
-				"y0y0"
+				"fagfart"
 			]
 		},
 		{
 			"keyCount": 4,
+			"strumScale": 1,
+			"position": "boyfriend",
 			"notes": [
 				{
 					"id": 1,
@@ -6694,26 +6688,22 @@
 					"type": 0
 				}
 			],
-			"position": "boyfriend",
-			"strumScale": 1,
-			"visible": true,
-			"scrollSpeed": 3,
-			"strumSpacing": 1,
-			"type": 1,
 			"characters": [
 				"bfyoy"
 			],
+			"type": 1,
+			"strumSpacing": 1,
+			"scrollSpeed": 3,
+			"visible": true,
 			"strumPos": [
 				0,
 				50
 			],
-			"vocalsSuffix": "",
-			"strumLinePos": 0.5
+			"strumLinePos": 0.5,
+			"vocalsSuffix": ""
 		},
 		{
 			"keyCount": 4,
-			"strumScale": 1,
-			"position": "girlfriend",
 			"notes": [
 				{
 					"id": 2,
@@ -6752,12 +6742,14 @@
 					"type": 0
 				}
 			],
+			"position": "girlfriend",
+			"strumScale": 1,
+			"visible": false,
+			"scrollSpeed": 3,
+			"type": 2,
 			"characters": [
 				"gf"
 			],
-			"type": 2,
-			"scrollSpeed": 3,
-			"visible": false,
 			"strumPos": [
 				0,
 				50

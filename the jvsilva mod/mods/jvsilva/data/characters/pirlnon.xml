@@ -1,0 +1,13 @@
+<!DOCTYPE codename-engine-character>
+<character icon="anon" color="#E5F8FF">
+	<anim name="idle" anim="idle"/>
+	<anim name="singDOWN" anim="down"/>
+	<anim name="singRIGHT" anim="right"/>
+	<anim name="singLEFT" anim="left"/>
+	<anim name="singUP" anim="up"/>
+	<anim name="hey" anim="hey"/>
+	<anim name="missl" anim="missl"/>
+	<anim name="missd" anim="missd"/>
+	<anim name="missu" anim="missu"/>
+	<anim name="missr" anim="missr"/>
+</character>

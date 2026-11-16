@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/ragdoll/" name="paper">
+	<girlfriend x="-285.303119350886" y="35496.9886829785"/>
+	<sprite x="510.146630030703" sprite="paper" y="422.15869455817" type="none" skewx="9.98488758341409e-11" scale="16.2884036949873" name="sprite_3"/>
+	<dad scale="1.17741085165542" x="-664.897001109371" y="211.7450593815"/>
+	<boyfriend scale="1.13888550248207" x="814.117213552909" y="276.8262709368"/>
+	<sprite scrolly="0.95" x="-1323.87899796761" sprite="3" y="178.779510504648" type="none" scrollx="-0.5" name="sprite_4"/>
+	<sprite scrolly="0.95" x="-1305.25167864427" sprite="3" y="-1146.28878779656" type="none" scalex="1.01" scrollx="-0.5" name="sprite_5"/>
+</stage>

@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/ragdoll/" name="hi neo fuck you for being a pussy">
+	<girlfriend x="193.590319151627" y="10471.6871886909"/>
+	<sprite x="73.3262139052775" sprite="placeback" y="-127.185824675655" type="none" scale="2.77645666143275" name="sprite_3"/>
+	<sprite x="36.550357970043" sprite="placefloor" y="759.209409286701" type="none" scale="2.44941396264247" name="sprite_5"/>
+	<dad x="-23.6772093096237" y="125.14995895831"/>
+	<boyfriend x="933.809522959643" y="65.7142730981733"/>
+</stage>

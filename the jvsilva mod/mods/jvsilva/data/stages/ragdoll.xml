@@ -1,0 +1,6 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="images/stages/ragdoll/" name="ragdoll">
+	<girlfriend x="-93" flipX="true" y="250"/>
+	<dad scale="0.902812355035004" x="-37.8704899159921" y="118.896028647019"/>
+	<boyfriend x="-52.8205187337447" flipX="false" y="100.230192712231"/>
+</stage>

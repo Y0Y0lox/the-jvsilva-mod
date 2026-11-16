@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="buddy.png">
+<SubTexture name="buddy idle0000" x="246" y="0" width="135" height="242" frameX="-16" frameY="-18" frameWidth="190" frameHeight="262" />
+<SubTexture name="buddy up0000" x="123" y="0" width="123" height="250" frameX="-16" frameY="-10" frameWidth="190" frameHeight="262" />
+<SubTexture name="buddy up0001" x="0" y="0" width="123" height="259" frameX="-16" frameY="-1" frameWidth="190" frameHeight="262" />
+<SubTexture name="buddy right0000" x="278" y="259" width="160" height="240" frameX="-24" frameY="-20" frameWidth="190" frameHeight="262" />
+<SubTexture name="buddy right0001" x="381" y="0" width="166" height="242" frameX="-24" frameY="-19" frameWidth="190" frameHeight="262" />
+<SubTexture name="buddy down0000" x="547" y="0" width="116" height="203" frameX="-25" frameY="-57" frameWidth="190" frameHeight="262" />
+<SubTexture name="buddy down0001" x="547" y="203" width="116" height="202" frameX="-23" frameY="-60" frameWidth="190" frameHeight="262" />
+<SubTexture name="buddy left0000" x="0" y="259" width="139" height="242" frameX="-3" frameY="-18" frameWidth="190" frameHeight="262" />
+<SubTexture name="buddy left0001" x="139" y="259" width="139" height="242" frameX="0" frameY="-18" frameWidth="190" frameHeight="262" />
+</TextureAtlas>

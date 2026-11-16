@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/ragdoll/" name="cardboardbox">
+	<sprite x="27.3520098166558" sprite="template" y="-149.473607877797" type="none" scalex="4.66380991189384" scaley="4.73096325449621" name="templateshit"/>
+	<sprite x="147.142915185584" sprite="konan and khlopin" y="-610.544647483784" skewx="5.48571428571445" scalex="3.37229436360928" scaley="2.50649349780842" name="animation test sex shit idfk"/>
+	<girlfriend scale="inf" skewx="-48.2285714285714" x="78.4761904761905"/>
+	<dad skewx="-12.9142857142857" x="156.38094728022" scaley="0.975166076860992" y="132.380951925373"/>
+	<boyfriend x="905.921085783197" y="-83.8858022893089" scalex="1.74061623032152" skewx="21.0744790926717" scaley="0.848603569395331" angle="16.6136650485572"/>
+</stage>

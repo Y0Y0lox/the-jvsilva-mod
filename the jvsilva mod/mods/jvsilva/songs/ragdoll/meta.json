@@ -1,0 +1,15 @@
+{
+	"color": "#7231FF",
+	"customValues": {},
+	"opponentModeAllowed": false,
+	"icon": "buddy",
+	"difficulties": [
+		"hard"
+	],
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "ragdoll",
+	"beatsPerMeasure": 4,
+	"needsVoices": true,
+	"bpm": 102.725
+}

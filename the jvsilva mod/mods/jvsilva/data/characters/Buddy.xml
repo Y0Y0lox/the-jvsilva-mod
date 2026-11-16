@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="100" y="225" sprite="buddy" scale="2.5" icon="Buddy">
+	<anim name="idle" anim="buddy idle"/>
+	<anim name="singDOWN" anim="buddy down" indices="1,0"/>
+	<anim name="singRIGHT" anim="buddy right" indices="1,0"/>
+	<anim name="singLEFT" anim="buddy left" indices="1,0"/>
+	<anim name="singUP" anim="buddy up" indices="1,0"/>
+</character>

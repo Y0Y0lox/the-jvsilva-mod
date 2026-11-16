@@ -1,7 +1,7 @@
 {
 	"events": [],
-	"codenameChart": true,
 	"stage": "stage",
+	"codenameChart": true,
 	"scrollSpeed": 3,
 	"chartVersion": "1.6.0",
 	"strumLines": [
@@ -25,6 +25,8 @@
 		},
 		{
 			"keyCount": 4,
+			"strumScale": 1,
+			"position": "boyfriend",
 			"notes": [
 				{
 					"id": 1,
@@ -1449,20 +1451,18 @@
 					"type": 0
 				}
 			],
+			"characters": [
+				"jvsilva"
+			],
+			"type": 1,
 			"visible": true,
 			"strumSpacing": 1,
 			"strumPos": [
 				0,
 				50
 			],
-			"position": "boyfriend",
-			"strumScale": 1,
-			"vocalsSuffix": "",
 			"strumLinePos": 0.5,
-			"type": 1,
-			"characters": [
-				"jvsilva"
-			]
+			"vocalsSuffix": ""
 		}
 	],
 	"noteTypes": []

@@ -1,8 +1,0 @@
-<!DOCTYPE codename-engine-character>
-<character icon="verity">
-	<anim name="idle" anim=""/>
-	<anim name="singDOWN" anim=""/>
-	<anim name="singRIGHT" anim=""/>
-	<anim name="singLEFT" anim=""/>
-	<anim name="singUP" anim=""/>
-</character>

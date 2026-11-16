@@ -5,7 +5,7 @@ import flixel.FlxG;
 function create()
 {
     // Replace Pirl (currently 100% for testing - change 1 to 0.10 for 10% easter egg)
-    if (dad.curCharacter == "pirl" && Math.random() < 1)
+    if (dad.curCharacter == "pirl" && Math.random() < 0.10)
     {
         var oldDad = dad;
 

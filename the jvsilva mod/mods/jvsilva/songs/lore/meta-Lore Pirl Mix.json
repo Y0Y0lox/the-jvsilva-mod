@@ -12,6 +12,6 @@
 	"displayName": "lore pirl mix",
 	"needsVoices": true,
 	"beatsPerMeasure": 4,
-	"vocalsSuffix": "-Lore Pirl Mix",
-	"bpm": 200
+	"bpm": 200,
+	"vocalsSuffix": "-Lore Pirl Mix"
 }

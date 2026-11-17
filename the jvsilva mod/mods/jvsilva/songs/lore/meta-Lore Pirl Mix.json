@@ -1,0 +1,17 @@
+{
+	"customValues": {},
+	"color": "#1D003E",
+	"instSuffix": "-Lore Pirl Mix",
+	"opponentModeAllowed": false,
+	"icon": "pirl",
+	"difficulties": [
+		"lore"
+	],
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "lore pirl mix",
+	"needsVoices": true,
+	"beatsPerMeasure": 4,
+	"vocalsSuffix": "-Lore Pirl Mix",
+	"bpm": 200
+}

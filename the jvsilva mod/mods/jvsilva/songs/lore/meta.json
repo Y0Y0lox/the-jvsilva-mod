@@ -10,5 +10,8 @@
 	"displayName": "lore",
 	"beatsPerMeasure": 4,
 	"needsVoices": true,
+	"variants": [
+		"Lore Pirl Mix"
+	],
 	"bpm": 200
 }

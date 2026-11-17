@@ -1,13 +1,14 @@
 {
+	"customValues": {},
+	"color": "#80FD71",
 	"opponentModeAllowed": false,
-	"icon": "face",
+	"icon": "jvsilva",
 	"difficulties": [
 		"lore"
 	],
-	"color": "#9271FD",
 	"coopAllowed": false,
 	"stepsPerBeat": 4,
-	"displayName": "lore",
+	"displayName": "Lore Jvsilva Mix",
 	"beatsPerMeasure": 4,
 	"needsVoices": true,
 	"variants": [

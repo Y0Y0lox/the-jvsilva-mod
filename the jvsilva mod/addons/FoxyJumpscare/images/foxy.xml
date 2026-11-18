@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="foxy.png" width="2434" height="2473" spritePadding="0" borderPadding="0">
+	<SubTexture name="boo00" x="2191" y="2035" width="243" height="438" rotated="true" frameX="-263" frameY="-198" frameWidth="1024" frameHeight="768"/>
+	<SubTexture name="boo01" x="1733" y="2035" width="458" height="278" frameX="-252" frameY="-165" frameWidth="1024" frameHeight="768"/>
+	<SubTexture name="boo02" x="1237" y="2035" width="496" height="317" frameX="-228" frameY="-126" frameWidth="1024" frameHeight="768"/>
+	<SubTexture name="boo03" x="697" y="1983" width="540" height="354" frameX="-202" frameY="-89" frameWidth="1024" frameHeight="768"/>
+	<SubTexture name="boo04" x="1657" y="1658" width="585" height="377" frameX="-175" frameY="-65" frameWidth="1024" frameHeight="768"/>
+	<SubTexture name="boo05" x="1963" y="1023" width="389" height="635" rotated="true" frameX="-145" frameY="-51" frameWidth="1024" frameHeight="768"/>
+	<SubTexture name="boo06" x="0" y="1917" width="697" height="420" frameX="-108" frameY="-22" frameWidth="1024" frameHeight="768"/>
+	<SubTexture name="boo07" x="880" y="1530" width="777" height="453" frameX="-61" frameY="0" frameWidth="1024" frameHeight="768"/>
+	<SubTexture name="boo08" x="0" y="1441" width="880" height="476" frameX="-1" frameY="0" frameWidth="1024" frameHeight="768"/>
+	<SubTexture name="boo09" x="1023" y="1023" width="940" height="507" frameX="-1" frameY="0" frameWidth="1024" frameHeight="768"/>
+	<SubTexture name="boo10" x="1791" y="0" width="573" height="1023" rotated="true" frameX="-1" frameY="0" frameWidth="1024" frameHeight="768"/>
+	<SubTexture name="boo11" x="0" y="768" width="1023" height="673" frameX="-1" frameY="0" frameWidth="1024" frameHeight="768"/>
+	<SubTexture name="boo12" x="0" y="0" width="1023" height="768" frameX="-1" frameY="0" frameWidth="1024" frameHeight="768"/>
+	<SubTexture name="boo13" x="1023" y="0" width="768" height="1023" rotated="true" frameX="-1" frameY="0" frameWidth="1024" frameHeight="768"/>
+</TextureAtlas>

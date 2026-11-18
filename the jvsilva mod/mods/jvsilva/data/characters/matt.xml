@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="methmatt" antialiasing="false" camx="150" camy="465" isPlayer="true" color="#1BF600">
+	<anim name="idle" anim="idle" x="-175" y="-425"/>
+	<anim name="singDOWN" anim="down" x="-165" y="-465"/>
+	<anim name="singRIGHT" anim="right" x="-110" y="-425"/>
+	<anim name="singLEFT" anim="left" x="-190" y="-420"/>
+	<anim name="singUP" anim="up" x="-180" y="-390"/>
+</character>

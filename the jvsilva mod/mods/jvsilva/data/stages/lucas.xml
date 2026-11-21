@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/lucas/" name="lucas" zoom="0.95">
+	<girlfriend scale="0.01"/>
+	<sprite x="127.437055061834" sprite="bitch" y="570.176412645722" type="none" scale="2.72678382052247" name="sprite_3"/>
+	<dad x="1" y="174"/>
+	<boyfriend x="1094" flipX="false" y="137"/>
+	<sprite x="-972.941330757116" sprite="bitch3" y="-780.673380407368" type="none" scaley="1.55702065718636" name="sprite_4"/>
+	<sprite x="1105.9150057756" sprite="bitch3" y="-724.077343934448" type="none" scalex="1.35872734265074" scaley="0.900974105041709" name="sprite_5"/>
+</stage>

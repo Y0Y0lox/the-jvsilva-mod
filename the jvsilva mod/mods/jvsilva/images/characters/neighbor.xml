@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="verity.png">
+	<SubTexture name="idle" x="0" y="0" width="351" height="569" frameX="0" frameY="-27" frameWidth="351" frameHeight="569"/>
+</TextureAtlas>

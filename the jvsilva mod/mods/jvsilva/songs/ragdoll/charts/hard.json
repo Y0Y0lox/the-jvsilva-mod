@@ -631,11 +631,9 @@
 			"name": "Time Signature Change"
 		}
 	],
-	"codenameChart": true,
 	"strumLines": [
 		{
 			"keyCount": 4,
-			"position": "dad",
 			"notes": [
 				{
 					"id": 0,
@@ -1599,7 +1597,7 @@
 				},
 				{
 					"id": 3,
-					"sLen": 146.020929666418,
+					"sLen": 146.020929666411,
 					"time": 42054.0277439766,
 					"type": 0
 				},
@@ -2169,7 +2167,7 @@
 				},
 				{
 					"id": 2,
-					"sLen": 438.062789000076,
+					"sLen": 438.062789000091,
 					"time": 75346.7997079582,
 					"type": 0
 				},
@@ -2589,7 +2587,7 @@
 				},
 				{
 					"id": 1,
-					"sLen": 438.062788999421,
+					"sLen": 438.062788999407,
 					"time": 102798.734485276,
 					"type": 0
 				},
@@ -2618,14 +2616,17 @@
 					"type": 0
 				}
 			],
+			"position": "dad",
+			"visible": true,
+			"type": 0,
 			"characters": [
 				"buddy"
-			],
-			"type": 0,
-			"visible": true
+			]
 		},
 		{
 			"keyCount": 4,
+			"strumScale": 1,
+			"position": "boyfriend",
 			"notes": [
 				{
 					"id": 1,
@@ -4393,7 +4394,7 @@
 				},
 				{
 					"id": 2,
-					"sLen": 438.062788999421,
+					"sLen": 438.062788999407,
 					"time": 109807.739109272,
 					"type": 0
 				},
@@ -4458,40 +4459,39 @@
 					"type": 0
 				}
 			],
-			"position": "boyfriend",
-			"strumScale": 1,
-			"strumSpacing": 1,
-			"visible": true,
-			"type": 1,
 			"characters": [
 				"bf"
+			],
+			"type": 1,
+			"visible": true,
+			"strumSpacing": 1,
+			"strumPos": [
+				0,
+				50
+			],
+			"strumLinePos": 0.75,
+			"vocalsSuffix": ""
+		},
+		{
+			"keyCount": 4,
+			"notes": [],
+			"position": "girlfriend",
+			"strumScale": 1,
+			"strumSpacing": 1,
+			"visible": false,
+			"type": 2,
+			"characters": [
+				"gf"
 			],
 			"strumPos": [
 				0,
 				50
 			],
 			"vocalsSuffix": "",
-			"strumLinePos": 0.75
-		},
-		{
-			"keyCount": 4,
-			"strumScale": 1,
-			"position": "girlfriend",
-			"notes": [],
-			"characters": [
-				"gf"
-			],
-			"type": 2,
-			"visible": false,
-			"strumSpacing": 1,
-			"strumPos": [
-				0,
-				50
-			],
-			"strumLinePos": 0.25,
-			"vocalsSuffix": ""
+			"strumLinePos": 0.25
 		}
 	],
+	"codenameChart": true,
 	"scrollSpeed": 1.8,
 	"chartVersion": "1.6.0",
 	"stage": "hi neo fuck you for being a pussy",

@@ -1,0 +1,15 @@
+{
+	"customValues": {},
+	"color": "#0021FF",
+	"opponentModeAllowed": false,
+	"icon": "dave",
+	"difficulties": [
+		"dave"
+	],
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "house",
+	"beatsPerMeasure": 4,
+	"needsVoices": true,
+	"bpm": 110
+}

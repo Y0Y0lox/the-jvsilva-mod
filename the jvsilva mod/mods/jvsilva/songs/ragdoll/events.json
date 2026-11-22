@@ -9,20 +9,24 @@
 		},
 		{
 			"params": [
+				true,
+				0,
 				0,
 				"paperbuddy",
 				0,
-				true
+				0
 			],
 			"time": 95789.7298612801,
 			"name": "Change Character"
 		},
 		{
 			"params": [
+				true,
 				1,
+				0,
 				"paperbf",
 				0,
-				true
+				0
 			],
 			"time": 95789.7298612801,
 			"name": "Change Character"

@@ -1,4 +1,4 @@
 <!DOCTYPE codename-engine-character>
-<character sprite="james" camx="-350" icon="jacob">
+<character sprite="james" camx="-350" color="#00FF00">
 	<anim name="idle" anim="BF idle dance instance 1" indices="0"/>
 </character>

@@ -70,9 +70,9 @@
 			"params": [
 				0,
 				true,
-				16,
-				"quint",
-				"InOut"
+				4,
+				"CLASSIC",
+				"In"
 			],
 			"time": 52363.6363636364,
 			"name": "Camera Movement"
@@ -92,20 +92,12 @@
 			"params": [
 				0,
 				true,
-				8,
-				"quint",
-				"Out"
+				4,
+				"CLASSIC",
+				"In"
 			],
-			"time": 69818.1818181818,
-			"name": "Camera Movement"
-		},
-		{
-			"params": [
-				60,
-				128
-			],
-			"time": 69818.1818181818,
-			"name": "Continuous BPM Change"
+			"name": "Camera Movement",
+			"time": 69818.1818181818
 		},
 		{
 			"params": [
@@ -115,7 +107,103 @@
 				"CLASSIC",
 				"In"
 			],
-			"time": 79718.8196153825,
+			"name": "Camera Movement",
+			"time": 74181.8181818182
+		},
+		{
+			"params": [
+				0,
+				true,
+				4,
+				"CLASSIC",
+				"In"
+			],
+			"time": 82909.0909090909,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				1,
+				true,
+				4,
+				"CLASSIC",
+				"In"
+			],
+			"time": 96000,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				0,
+				true,
+				4,
+				"CLASSIC",
+				"In"
+			],
+			"time": 104727.272727273,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				1,
+				true,
+				4,
+				"CLASSIC",
+				"In"
+			],
+			"time": 113454.545454545,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				0,
+				true,
+				8,
+				"quint",
+				"InOut"
+			],
+			"time": 122181.818181818,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				1,
+				true,
+				8,
+				"quint",
+				"InOut"
+			],
+			"time": 130909.090909091,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				60,
+				128
+			],
+			"time": 139636.363636364,
+			"name": "Continuous BPM Change"
+		},
+		{
+			"params": [
+				0,
+				true,
+				16,
+				"quint",
+				"InOut"
+			],
+			"time": 139636.363636364,
+			"name": "Camera Movement"
+		},
+		{
+			"params": [
+				1,
+				true,
+				16,
+				"quint",
+				"Out"
+			],
+			"time": 149537.001433564,
 			"name": "Camera Movement"
 		}
 	]

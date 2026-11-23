@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/baldi/" name="baldih" zoom="0.65">
+	<sprite x="643.343511933433" sprite="stage" y="251.834770979632" type="none" scale="16.364406522189" name="sprite_3"/>
+	<girlfriend x="464.357092176548" y="180.366419976079"/>
+	<dad scale="1.79858279934646" x="0.771138967313163" y="424.992078015292"/>
+	<boyfriend x="1326.83534548947" y="153.072214776263"/>
+	<sprite x="-390.562991471628" sprite="plant" y="495.249794574735" type="none" scale="3.7895121467551" name="sprite_4"/>
+	<sprite x="1894.93118852309" sprite="plant" y="518.576143105202" type="none" scale="3.78660791313896" name="sprite_5"/>
+</stage>

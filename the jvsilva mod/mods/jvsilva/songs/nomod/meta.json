@@ -1,0 +1,15 @@
+{
+	"customValues": {},
+	"color": "#00FF11",
+	"opponentModeAllowed": false,
+	"icon": "baldi",
+	"difficulties": [
+		"nomod"
+	],
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "nomod",
+	"beatsPerMeasure": 4,
+	"needsVoices": true,
+	"bpm": 170
+}

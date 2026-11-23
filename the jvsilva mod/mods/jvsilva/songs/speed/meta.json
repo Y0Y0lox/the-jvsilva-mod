@@ -1,0 +1,15 @@
+{
+	"customValues": {},
+	"color": "#0B00DC",
+	"opponentModeAllowed": false,
+	"icon": "sonic",
+	"difficulties": [
+		"speed"
+	],
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"displayName": "speed",
+	"beatsPerMeasure": 4,
+	"needsVoices": true,
+	"bpm": 100
+}

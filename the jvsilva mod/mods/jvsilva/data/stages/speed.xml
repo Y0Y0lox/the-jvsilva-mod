@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="stages/sonic/" name="speed" zoom="0.5">
+	<sprite x="467.333840611065" sprite="stage" y="-307.420819410187" type="none" skewx="0.0433365656985393" scalex="10.7222198859948" scaley="5.03618859228889" name="sprite_3"/>
+	<girlfriend x="391.918779642896" y="232.362124514545"/>
+	<dad scale="1.265625" x="-272.065960263195" spacingx="0" y="513.502520346433"/>
+	<boyfriend x="1177.67169823908" y="179.345011983116"/>
+	<sprite x="889.068674325609" sprite="stage" y="2224.78290832558" type="none" scalex="11.0195616462672" angle="180" scaley="4.84768664626718" name="sprite_4"/>
+</stage>

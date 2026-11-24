@@ -1,30 +1,39 @@
 {
 	"events": [],
-	"codenameChart": true,
 	"stage": "stage",
+	"codenameChart": true,
 	"scrollSpeed": 3,
 	"chartVersion": "1.6.0",
 	"strumLines": [
 		{
 			"keyCount": 4,
-			"notes": [],
+			"strumScale": 1,
+			"position": "dad",
+			"notes": [
+				{
+					"id": 2,
+					"sLen": 0,
+					"time": 8727.27272727273,
+					"type": 0
+				}
+			],
+			"characters": [
+				"verity"
+			],
+			"type": 0,
 			"visible": false,
 			"strumSpacing": 1,
 			"strumPos": [
 				0,
 				50
 			],
-			"position": "dad",
-			"strumScale": 1,
-			"vocalsSuffix": "",
 			"strumLinePos": 0.25,
-			"type": 0,
-			"characters": [
-				"verity"
-			]
+			"vocalsSuffix": ""
 		},
 		{
 			"keyCount": 4,
+			"strumScale": 1,
+			"position": "boyfriend",
 			"notes": [
 				{
 					"id": 1,
@@ -1449,20 +1458,18 @@
 					"type": 0
 				}
 			],
+			"characters": [
+				"jvsilva"
+			],
+			"type": 1,
 			"visible": true,
 			"strumSpacing": 1,
 			"strumPos": [
 				0,
 				50
 			],
-			"position": "boyfriend",
-			"strumScale": 1,
-			"vocalsSuffix": "",
 			"strumLinePos": 0.5,
-			"type": 1,
-			"characters": [
-				"jvsilva"
-			]
+			"vocalsSuffix": ""
 		}
 	],
 	"noteTypes": []

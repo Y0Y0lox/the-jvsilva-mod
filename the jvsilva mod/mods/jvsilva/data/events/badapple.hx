@@ -22,15 +22,19 @@ function onEvent(event) {
 
         if (value == true || value == "true") {
             bg.visible = true;
-            dad.color = 0x000000;
-            bf.color = 0x000000;
-            gf.color = 0x000000;
-        } 
+            for (i in 0...strumLines.members.length) {
+                for (b in 0...strumLines.members[i].characters.length) {
+                    strumLines.members[i].characters[b].color = 0x0000;
+                }
+            }
+        }
         else if (value == false || value == "false") {
             bg.visible = false;
-            dad.color = 0xFFFFFF;
-            bf.color = 0xFFFFFF;
-            gf.color = 0xFFFFFF;
+            for (i in 0...strumLines.members.length) {
+                for (b in 0...strumLines.members[i].characters.length) {
+                    strumLines.members[i].characters[b].color = 0xFFFFFF;
+                }
+            }
         }
     }
 }

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="retro vuki.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="idle0000" x="552" y="20" width="386" height="365" frameX="-64" frameY="-71" frameWidth="512" frameHeight="513"/>
+	<SubTexture name="left0000" x="20" y="553" width="454" height="434" frameX="-37" frameY="-29" frameWidth="512" frameHeight="513"/>
+	<SubTexture name="right0000" x="494" y="553" width="444" height="415" frameX="-25" frameY="-52" frameWidth="512" frameHeight="513"/>
+	<SubTexture name="up0000" x="494" y="988" width="449" height="386" frameX="-35" frameY="-75" frameWidth="512" frameHeight="513"/>
+	<SubTexture name="down0000" x="20" y="20" width="512" height="513"/>
+</TextureAtlas>

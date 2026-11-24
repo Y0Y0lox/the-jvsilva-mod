@@ -48,6 +48,7 @@ function onEvent(event) {
         FlxTween.globalManager.completeTweensOf(accuracyTxt);
 
         var value = event.event.params[0];
+	var valueE = event.event.params[1];
 
         if (value == true || value == "true") {
             defaultCamZoom = def + 0.183737458138913248134571345;
@@ -59,23 +60,15 @@ function onEvent(event) {
             FlxTween.tween(missesTxt, {y: FlxG.height - 20}, tweenDuration, {ease: FlxEase.quadIn});
             FlxTween.tween(accuracyTxt, {y: FlxG.height - 20}, tweenDuration, {ease: FlxEase.quadIn});
 
-            for (i in 0...strumLines.members[1].members.length) {
-                FlxTween.tween(strumLines.members[1].members[i], {y: (50 + barHeight)}, tweenDuration, {ease: FlxEase.quadOut});
-            }
-            for (i in 0...strumLines.members[0].members.length) {
-                FlxTween.tween(strumLines.members[0].members[i], {y: (50 + barHeight)}, tweenDuration, {ease: FlxEase.quadOut});
-            }
+		fuck_you(true, !event.event.params[1]);
+	
             FlxTween.tween(topBar, {y: 0}, tweenDuration, {ease: FlxEase.quadOut});
             FlxTween.tween(bottomBar, {y: FlxG.height - barHeight}, tweenDuration, {ease: FlxEase.quadOut});
         } 
         else if (value == false || value == "false") {
             defaultCamZoom = def;
-            for (i in 0...strumLines.members[1].members.length) {
-                FlxTween.tween(strumLines.members[1].members[i], {y: 50}, tweenDuration, {ease: FlxEase.quadIn});
-            }
-            for (i in 0...strumLines.members[0].members.length) {
-                FlxTween.tween(strumLines.members[0].members[i], {y: 50}, tweenDuration, {ease: FlxEase.quadIn});
-            }
+            
+		fuck_you(false, !event.event.params[1]);
             FlxTween.tween(topBar, {y: -barHeight}, tweenDuration, {ease: FlxEase.quadIn});
             FlxTween.tween(bottomBar, {y: FlxG.height}, tweenDuration, {ease: FlxEase.quadIn});
 
@@ -88,4 +81,43 @@ function onEvent(event) {
             FlxTween.tween(accuracyTxt, {y: FlxG.height - 50}, tweenDuration, {ease: FlxEase.quadIn});
         }
     }
+}
+function fuck_you(pepe,popo) { // val 1 = will it show bars //val 2 will you do the fuck off things to the other strums
+	if (pepe == false) {
+		for (i in 0...strumLines.members.length) {
+			for (b in 0...strumLines.members[i].members.length) {
+			FlxTween.tween(strumLines.members[i].members[b], {y: 50}, tweenDuration, {ease: FlxEase.quadIn});
+			}
+		}
+	} else if (popo == true) {
+		if(pepe == true) {
+			for (i in 0...strumLines.members.length) {
+				for (b in 0...strumLines.members[i].members.length) {
+				FlxTween.tween(strumLines.members[i].members[b], {y: 50 + barHeight}, tweenDuration, {ease: FlxEase.quadIn});
+				}
+			}
+		} else {
+			for (i in 0...strumLines.members.length) {
+				for (b in 0...strumLines.members[i].members.length) {
+				FlxTween.tween(strumLines.members[i].members[b], {y: 50}, tweenDuration, {ease: FlxEase.quadIn});
+				}
+			}
+		}
+		
+	} else if(popo == false) {
+		for (i in 0...strumLines.members.length) {
+		if (i == 0 | i == 1) continue;
+			for (b in 0...strumLines.members[i].members.length) {
+			FlxTween.tween(strumLines.members[i].members[b], {y: 50}, tweenDuration, {ease: FlxEase.quadIn});
+			}
+		}
+		if(pepe == true) {
+			for (i in 0...strumLines.members[1].members.length) {
+			FlxTween.tween(strumLines.members[1].members[i], {y: (50 + barHeight)}, tweenDuration, {ease: FlxEase.quadOut});
+			}
+			for (i in 0...strumLines.members[0].members.length) {
+			FlxTween.tween(strumLines.members[0].members[i], {y: (50 + barHeight)}, tweenDuration, {ease: FlxEase.quadOut});
+			}
+		}
+	}
 }

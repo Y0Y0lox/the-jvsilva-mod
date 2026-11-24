@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character scale="1.8" antialiasing="false" icon="retrovuki" color="#FF0000">
+	<anim name="idle" anim="idle"/>
+	<anim name="singDOWN" anim="up" x="-1" y="-1"/>
+	<anim name="singRIGHT" anim="left" x="1"/>
+	<anim name="singLEFT" anim="right" x="-1"/>
+	<anim name="singUP" anim="down" y="-1"/>
+</character>

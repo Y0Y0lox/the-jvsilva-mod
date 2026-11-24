@@ -1,0 +1,15 @@
+{
+	"customValues": {},
+	"color": "#0097E1",
+	"opponentModeAllowed": true,
+	"icon": "diamond",
+	"difficulties": [
+		"yoyo"
+	],
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"displayName": "EPIK YOYOLOX UPDATE",
+	"beatsPerMeasure": 4,
+	"needsVoices": true,
+	"bpm": 140
+}

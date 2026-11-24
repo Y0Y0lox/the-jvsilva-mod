@@ -4,6 +4,11 @@
             "name": "Bars?",
             "type": "Bool",
             "defaultValue": "false"
+        },
+	{
+            "name": "affect only bf and dad strums",
+            "type": "Bool",
+            "defaultValue": "false"
         }
     ]
 }

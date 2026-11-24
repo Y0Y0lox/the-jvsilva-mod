@@ -1,0 +1,9 @@
+{
+    "params": [
+        {
+            "name": "how much",
+            "type": "Float(0.5,10,0.1,2)",
+            "defaultValue": "0.8"
+        }
+    ]
+}

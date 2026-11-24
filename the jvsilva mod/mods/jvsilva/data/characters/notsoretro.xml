@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="retroslopmond" scale="2" icon="notsoretro">
+	<anim name="idle" anim="idle"/>
+	<anim name="singDOWN" anim="down" x="-48" y="-89"/>
+	<anim name="singRIGHT" anim="right" x="85" y="-10"/>
+	<anim name="singLEFT" anim="left" x="115" y="-15"/>
+	<anim name="singUP" anim="up" x="-30" y="40"/>
+</character>

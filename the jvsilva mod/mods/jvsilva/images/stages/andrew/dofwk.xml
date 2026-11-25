@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="dofwk.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="WALKN0000" x="0" y="0" width="480" height="480"/>
+	<SubTexture name="WALKN0001" x="0" y="500" width="480" height="480"/>
+	<SubTexture name="WALKN0002" x="0" y="1000" width="480" height="480"/>
+	<SubTexture name="WALKN0003" x="0" y="1500" width="480" height="480"/>
+	<SubTexture name="WALKN0004" x="500" y="0" width="480" height="480"/>
+	<SubTexture name="WALKN0005" x="500" y="500" width="480" height="480"/>
+	<SubTexture name="WALKN0006" x="500" y="1000" width="480" height="480"/>
+	<SubTexture name="WALKN0007" x="500" y="1500" width="480" height="480"/>
+	<SubTexture name="WALKN0008" x="1000" y="0" width="480" height="480"/>
+	<SubTexture name="WALKN0009" x="1000" y="500" width="480" height="480"/>
+</TextureAtlas>

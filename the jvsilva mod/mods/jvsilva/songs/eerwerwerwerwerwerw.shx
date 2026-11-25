@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream:the jvsilva mod/mods/jvsilva/songs/eerwerwerwerwerwerw.shx
 //yo who the fu
 
 function update(elapsed:float)
@@ -26,4 +27,30 @@ function update(elapsed:float)
     {
         boyfriend.flipX = !boyfriend.flipX;
     }
+=======
+function update(elapsed:float)
+{
+    if(FlxG.keys.pressed.A)
+    {
+        boyfriend.x -= 5;
+    }
+
+    if(FlxG.keys.pressed.L)
+    {
+        boyfriend.x += 5;
+    }
+    
+    if(FlxG.keys.pressed.K)
+    {
+        boyfriend.y += 10;
+        boyfriend.y += 5;
+        boyfriend.y += -5;
+        boyfriend.y += -10;
+    }
+    
+    if(FlxG.keys.justPressed.SPACE)
+    {
+        boyfriend.flipX = !boyfriend.flipX;
+    }
+>>>>>>> Stashed changes:the jvsilva mod/mods/jvsilva/songs/eerwerwerwerwerwerw.hx
 }

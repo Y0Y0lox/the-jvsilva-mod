@@ -6,7 +6,7 @@
 	"difficulties": [
 		"chud"
 	],
-	"coopAllowed": false,
+	"coopAllowed": true,
 	"stepsPerBeat": 4,
 	"displayName": "jazzy",
 	"beatsPerMeasure": 4,

@@ -191,13 +191,15 @@
 			"name": "Play Animation"
 		}
 	],
-	"codenameChart": true,
 	"stage": "buildaboat",
+	"codenameChart": true,
 	"scrollSpeed": 3,
 	"chartVersion": "1.6.0",
 	"strumLines": [
 		{
 			"keyCount": 4,
+			"strumScale": 0.9,
+			"position": "dad",
 			"notes": [
 				{
 					"id": 1,
@@ -615,7 +617,7 @@
 				},
 				{
 					"id": 1,
-					"sLen": 136.363636363609,
+					"sLen": 136.363636363607,
 					"time": 13636.3636363636,
 					"type": 0
 				},
@@ -1652,23 +1654,23 @@
 					"type": 0
 				}
 			],
-			"position": "dad",
-			"strumScale": 0.9,
-			"strumSpacing": 1,
-			"visible": true,
-			"type": 0,
 			"characters": [
 				"yoyolox"
 			],
+			"type": 0,
+			"visible": true,
+			"strumSpacing": 1,
 			"strumPos": [
 				0,
 				50
 			],
-			"vocalsSuffix": "",
-			"strumLinePos": 0.2
+			"strumLinePos": 0.2,
+			"vocalsSuffix": ""
 		},
 		{
 			"keyCount": 5,
+			"strumScale": 0.9,
+			"position": "boyfriend",
 			"notes": [
 				{
 					"id": 1,
@@ -1822,7 +1824,7 @@
 				},
 				{
 					"id": 3,
-					"sLen": 136.363636363609,
+					"sLen": 136.363636363607,
 					"time": 13636.3636363636,
 					"type": 0
 				},
@@ -2068,7 +2070,7 @@
 				},
 				{
 					"id": 1,
-					"sLen": 136.363636363581,
+					"sLen": 136.363636363578,
 					"time": 25500,
 					"type": 0
 				},
@@ -2559,32 +2561,30 @@
 					"type": 0
 				}
 			],
-			"position": "boyfriend",
-			"strumScale": 0.9,
-			"strumSpacing": 1,
-			"visible": true,
-			"type": 1,
 			"characters": [
 				"yf"
 			],
+			"type": 1,
+			"visible": true,
+			"strumSpacing": 1,
 			"strumPos": [
 				0,
 				50
 			],
-			"vocalsSuffix": "",
-			"strumLinePos": 0.8
+			"strumLinePos": 0.8,
+			"vocalsSuffix": ""
 		},
 		{
 			"keyCount": 4,
-			"strumScale": 1,
-			"position": "girlfriend",
 			"notes": [],
+			"position": "girlfriend",
+			"strumScale": 1,
+			"visible": false,
+			"scrollSpeed": null,
+			"type": 2,
 			"characters": [
 				"gf"
 			],
-			"type": 2,
-			"scrollSpeed": null,
-			"visible": false,
 			"strumPos": [
 				0,
 				50

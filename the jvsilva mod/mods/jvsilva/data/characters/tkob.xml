@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="leavethedamninternet" icon="tkob">
+	<anim name="idle" anim="Idle" x="181" y="-2" loop="true"/>
+	<anim name="singDOWN" anim="down"/>
+	<anim name="singRIGHT" anim="right"/>
+	<anim name="singLEFT" anim="left"/>
+	<anim name="singUP" anim="up" x="-6" y="20"/>
+</character>

@@ -1,8 +1,7 @@
 <!DOCTYPE codename-engine-stage>
 <stage startCamPosX="1600" startCamPosY="600" folder="/" zoom="0.75" name="ANDREWSTREET">
-	
 	<girlfriend x="1634" y="147"/>
 	<sprite antialiasing="false" x="1000" sprite="stages/andrew/AllGround" y="180" type="none" scale="1.6" name="Background"/>
-	<dad x="1265" y="135"/>
+	<dad x="1099" y="155"/>
 	<boyfriend x="1634" y="147"/>
 </stage>

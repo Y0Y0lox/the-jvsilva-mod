@@ -10,6 +10,7 @@ function postCreate() {
     camHUD.visible = false;
     startSong();
     Application.current.window.borderless = true;
+    Application.current.window.opacity = 1;
 }
 
 function onCountdown(event) {
@@ -23,4 +24,5 @@ function onGamePause(event) {
 function destroy() {
     Framerate.debugMode = shittyshitshit;
     Application.current.window.borderless = false;
+    Application.current.window.opacity = 1;
 }

@@ -14,11 +14,11 @@ function postCreate() {
     Application.current.window.borderless = true;
     Application.current.window.opacity = 0;
 
-    Application.current.window.y = windowY * 4;
+    Application.current.window.y = windowY * 3;
 
     startSong();
     FlxTween.tween(Application.current.window, { opacity: 1 }, 5.0);
-    FlxTween.tween(Application.current.window, { y: windowY }, 5.0);
+    FlxTween.tween(Application.current.window, { y: windowY }, 7.5);
 }
 
 function onCountdown(event) {

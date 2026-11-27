@@ -3,14 +3,22 @@ import lime.app.Application;
 
 var shittyshitshit:Int;
 
+var windowY:Float = Application.current.window.y;
+
 function postCreate() {
     shittyshitshit = Framerate.debugMode;
     Framerate.debugMode = 0;
 
     camHUD.visible = false;
-    startSong();
+
     Application.current.window.borderless = true;
-    Application.current.window.opacity = 1;
+    Application.current.window.opacity = 0;
+
+    Application.current.window.y = windowY * 4;
+
+    startSong();
+    FlxTween.tween(Application.current.window, { opacity: 1 }, 5.0);
+    FlxTween.tween(Application.current.window, { y: windowY }, 5.0);
 }
 
 function onCountdown(event) {

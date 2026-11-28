@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="soapy.png">
+<SubTexture name="WALKN0000" x="0" y="970" width="453" height="361" frameX="-149" frameY="-270" frameWidth="720" frameHeight="720" />
+<SubTexture name="WALKN0001" x="453" y="585" width="453" height="380" frameX="-149" frameY="-270" frameWidth="720" frameHeight="720" />
+<SubTexture name="WALKN0002" x="478" y="0" width="453" height="496" frameX="-149" frameY="-159" frameWidth="720" frameHeight="720" />
+<SubTexture name="WALKN0003" x="906" y="585" width="453" height="378" frameX="-149" frameY="-270" frameWidth="720" frameHeight="720" />
+<SubTexture name="WALKN0004" x="453" y="970" width="453" height="353" frameX="-149" frameY="-270" frameWidth="720" frameHeight="720" />
+<SubTexture name="WALKN0005" x="0" y="0" width="478" height="585" frameX="-149" frameY="-63" frameWidth="720" frameHeight="720" />
+<SubTexture name="WALKN0006" x="0" y="585" width="453" height="385" frameX="-149" frameY="-270" frameWidth="720" frameHeight="720" />
+<SubTexture name="WALKN0007" x="931" y="0" width="453" height="398" frameX="-149" frameY="-252" frameWidth="720" frameHeight="720" />
+</TextureAtlas>

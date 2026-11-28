@@ -9,4 +9,11 @@
 	<sprite x="1070.81569480947" sprite="yoyoplush" y="707.284271247462" type="beat" scale="1.21" name="sprite_6"/>
 	<dad x="-358.750025087239" y="373.749987200383"/>
 	<boyfriend x="1203.70582074315" y="379.999999998855"/>
+	<sprite x="2348.37720543441" sprite="catdrew" y="697.020650930763" type="none" scale="0.480328552243386" name="sprite_9"/>
+	<sprite x="-1987.76777978437" sprite="jared" y="1573.34822211471" type="none" scale="1.05819236340384" name="sprite_10"/>
+	<sprite x="-1884.43957186215" sprite="neighbor" y="1367.32492894826" type="none" scale="1.7050922319524" name="sprite_13"/>
+	<sprite x="2309.27922061358" sprite="dofwk" y="1689.36038969321" scale="1.86" name="sprite_11"/>
+	<sprite x="-961.665222413705" sprite="verity" y="1972.82791951047" type="none" scale="1.90509667991878" name="sprite_12"/>
+	<sprite x="-563.637520063834" sprite="badwart" y="1739.48268171891" type="none" scale="1.85007372601661" name="sprite_14"/>
+	<sprite x="1644.02326112609" sprite="soapy" y="1743.01820827427" type="none" scale="1.42229988320863" name="sprite_15"/>
 </stage>
